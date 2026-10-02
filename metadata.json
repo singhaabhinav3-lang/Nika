@@ -1,0 +1,8 @@
+{
+  "name": "NIKA",
+  "description": "NIKA — Premium AI personal fashion stylist. Complete outfit generation, smart wardrobe digitizer, and editorial fashion inspiration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
